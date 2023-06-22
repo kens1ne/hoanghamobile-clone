@@ -1,2 +1,2 @@
-# hoanghamobile-clone
-Hoàng Hà Mobile Clone
+# Hoàng Hà Mobile - SPA Version
+hoanghamobile.com single page application (ReactJS)
